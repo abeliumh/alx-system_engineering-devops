@@ -1,0 +1,3 @@
+[submodule "0x00-shell_basics/0x00-shell_basics/zero_day"]
+	path = 0x00-shell_basics/0x00-shell_basics/zero_day
+	url = https://github.com/abeliumh/alx-system_engineering-devops
